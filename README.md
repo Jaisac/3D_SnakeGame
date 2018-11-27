@@ -7,8 +7,12 @@ bombs and obstacles can cause game over (freeze the game). Bombs and fruits appe
 Features to be added:
 
 -Menus for start and settings
+
 -Background music
+
 -Support for mobile phones
+
+-Restart and pause 
 
 
 Bugs to be fixed
