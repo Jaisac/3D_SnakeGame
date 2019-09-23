@@ -20,6 +20,5 @@ Bugs to be fixed
 move loosely as its numbers increase during movement.
 
 
-This project was made by Jaime Perez Gutierrez.
 
 
